@@ -96,8 +96,8 @@
 				TargetAttributes = {
 					C3D5C9471D4EE7F60034A635 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 94558YUN4J;
-						DevelopmentTeamName = "Joseph Mennemeier (Personal Team)";
+						DevelopmentTeam = T44TTZEK32;
+						DevelopmentTeamName = "Joseph Mennemeier";
 						ProvisioningStyle = Automatic;
 					};
 				};
